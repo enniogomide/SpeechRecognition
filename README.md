@@ -28,5 +28,3 @@ In the **“Music”** folder, you should place the music that will be played wh
 The program execution contains the instructions for the available commands.
 When you play the music, you should lower the volume when you are asked to “stop” the music.
 
-
-Translated with DeepL.com (free version)
